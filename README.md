@@ -8,8 +8,8 @@ I am a software engineer by profession, and a forever learner.
 🔭 I’m currently working as a Full Stack Web Developer.
 
 🌱 I am interested in:
-  - Latest web development methodologies.
-  - Cloud native techs for infrastructure & deployment.
+  - Latest web techs.
+  - Cloud native techs for web infrastructure & deployment.
   - Distributed design and architecture for scalability and performance.
 
 🔭 I've worked on:
