@@ -56,7 +56,7 @@ I am a software engineer by profession, and a forever learner.
 
 <p dir="auto">
   <h3>Github stats:</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskaar-thakur&amp;show_icons=true&amp;hide_border=true" style="max-width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanskar-thakur&amp;show_icons=true&amp;hide_border=true" style="max-width: 100%;">
 </p>
 
 ### 📫 How to reach me:
