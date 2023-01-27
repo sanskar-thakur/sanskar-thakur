@@ -18,37 +18,37 @@ I am a software engineer by profession, and a forever learner.
     <tr valign="top">
       <td width="25%" align="center">
         <span>Angular</span><br><br><br>
-        <a target="_blank" rel="noopener noreferrer" href="https://angular.io/"><img src="https://angular.io/assets/images/logos/angular/angular.svg"></a>
+        <a target="_blank" rel="noopener noreferrer" href="https://angular.io/"><img height="64px" width="64px"src="https://cdn.windowsreport.com/wp-content/uploads/2020/06/angular-logo-2.png"></a>
       </td>
       <td width="25%" align="center">
         <span>Spring</span><br><br><br>
-        <a target="_blank" rel="noopener noreferrer" href="https://spring.io/"><img height="64px" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer" href="https://spring.io/"><img height="64px" width="64px" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" style="max-width: 100%;"></a>
       </td>
       <td width="25%" align="center">
         <span>.NET</span><br><br><br>
-        <a target="_blank" href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet"><img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/800px-.NET_Logo.svg.png" style="max-width: 100%;"></a>
+        <a target="_blank" href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet"><img height="64px" width="64px" src="https://dhalgara.com/content/images/2018/07/dotnet-logo.png" style="max-width: 100%;"></a>
       </td>
       <td width="25%" align="center">
         <span>𝗖++</span><br><br><br>
-        <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/99a16669d62a8eb5383003846946cce0b7bd335bd39cf7e45310aff1072df51d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31382f49534f5f432532422532425f4c6f676f2e7376672f38303070782d49534f5f432532422532425f4c6f676f2e7376672e706e67"><img height="64px" src="https://camo.githubusercontent.com/99a16669d62a8eb5383003846946cce0b7bd335bd39cf7e45310aff1072df51d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31382f49534f5f432532422532425f4c6f676f2e7376672f38303070782d49534f5f432532422532425f4c6f676f2e7376672e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/99a16669d62a8eb5383003846946cce0b7bd335bd39cf7e45310aff1072df51d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31382f49534f5f432532422532425f4c6f676f2e7376672f38303070782d49534f5f432532422532425f4c6f676f2e7376672e706e67"><img height="64px" width="64px" src="https://camo.githubusercontent.com/99a16669d62a8eb5383003846946cce0b7bd335bd39cf7e45310aff1072df51d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31382f49534f5f432532422532425f4c6f676f2e7376672f38303070782d49534f5f432532422532425f4c6f676f2e7376672e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" style="max-width: 100%;"></a>
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
         <span>Kafka</span><br><br><br>
-        <a target="_blank" rel="noopener noreferrer" href="https://kafka.apache.org/"><img height="64px" src="https://toppng.com/uploads/preview/apache-kafka-logo-11563428199khgq3xvb4q.png" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer" href="https://kafka.apache.org/"><img height="64px" width="64px" src="https://toppng.com/uploads/preview/apache-kafka-logo-11563428199khgq3xvb4q.png" style="max-width: 100%;"></a>
       </td>
       <td width="25%" align="center">
         <span>Docker</span><br><br><br>
-        <a target="_blank" rel="noopener noreferrer" href="https://www.docker.com/"><img height="64px" src="https://marvel-b1-cdn.bc0a.com/f00000000152152/www.zend.com/sites/default/files/image/2019-09/logo-docker.jpg" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer" href="https://www.docker.com/"><img height="64px" width="64px" src="https://marvel-b1-cdn.bc0a.com/f00000000152152/www.zend.com/sites/default/files/image/2019-09/logo-docker.jpg" style="max-width: 100%;"></a>
       </td>
       <td width="25%" align="center">
         <span>BitBucket</span><br><br><br>
-        <a target="_blank" rel="noopener noreferrer" href="https://bitbucket.org/product"><img height="64px" src="https://logowik.com/content/uploads/images/bitbucket9553.jpg" data-canonical-src="https://image.flaticon.com/icons/svg/25/25231.svg" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer" href="https://bitbucket.org/product"><img height="64px" width="64px" src="https://logowik.com/content/uploads/images/bitbucket9553.jpg" data-canonical-src="https://image.flaticon.com/icons/svg/25/25231.svg" style="max-width: 100%;"></a>
       </td>      
        <td width="25%" align="center">
         <span>Jenkins</span><br><br><br>
-        <a target="_blank" rel="noopener noreferrer" href="https://www.jenkins.io/"><img height="64px" src="https://www.jenkins.io/images/logo-title-opengraph.png" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer" href="https://www.jenkins.io/"><img height="64px" width="64px" src="https://www.jenkins.io/images/logo-title-opengraph.png" style="max-width: 100%;"></a>
       </td>
     </tr>
   </tbhttps://www.jenkins.io/ody>
