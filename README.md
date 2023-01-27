@@ -3,16 +3,15 @@
 <img align="right" width="500px" height="300px" src="https://camo.githubusercontent.com/787941ceccc55e92cdda04ed77149e708bcaa74264b03ae17eded3420c999d2a/68747470733a2f2f7777772e73686f6f7464617274736f6c7574696f6e732e636f6d2f696d672f736572766963652f7765622d64657369676e2e676966" data-canonical-src="https://www.shootdartsolutions.com/img/service/web-design.gif" style="max-width: 50%;">
 
 ### This is Sanskar. :relaxed:
-I am a software engineer by profession, and a forever learner.
+🌠 I am a software engineer by profession, and a forever learner.
 
-🔭 I’m currently working as a Full Stack Web Developer.
+🔭 Professionally, I'm working as a full-stack web developer.
 
-🌱 I am interested in:
-  - Latest web techs.
+🌱 I am looking to collaborate on:
   - Cloud native techs for web infrastructure & deployment.
   - Distributed design and architecture for scalability and performance.
 
-🔭 I've worked on:
+🔭 I've worked with:
 -  <table>
   <tbody>
     <tr valign="top">
