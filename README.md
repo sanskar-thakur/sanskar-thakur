@@ -5,7 +5,7 @@
 ### This is Sanskar. :relaxed:
 🌠 I am a software engineer by profession, and a forever learner.
 
-🔭 Professionally, I'm working as a full-stack web developer.
+🔭 Currently, I'm working as a full-stack web developer.
 
 🌱 I am looking to collaborate on:
   - Cloud native techs for web infrastructure & deployment.
