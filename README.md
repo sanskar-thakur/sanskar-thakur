@@ -1,79 +1,49 @@
-## Hi there! 👋
+# Sanskar Thakur
 
-<img align="right" width="500px" height="300px" src="https://camo.githubusercontent.com/787941ceccc55e92cdda04ed77149e708bcaa74264b03ae17eded3420c999d2a/68747470733a2f2f7777772e73686f6f7464617274736f6c7574696f6e732e636f6d2f696d672f736572766963652f7765622d64657369676e2e676966" data-canonical-src="https://www.shootdartsolutions.com/img/service/web-design.gif" style="max-width: 50%;">
+**Senior Lead Software Engineer at OfBusiness · Distributed Systems · Applied AI**
 
-### This is Sanskar. :relaxed:
-🌠 I am a software engineer by profession, and a forever learner.
+I build distributed systems and production AI applications, with 12+ years of experience spanning commerce, industrial inspection, and semiconductor tooling. My work combines hands-on architecture, technical direction, and mentoring engineering teams.
 
-🔭 Currently, I'm working as a full-stack web developer.
+[LinkedIn](https://www.linkedin.com/in/sanskaarthakur/) · [Email](mailto:mail.sanskarthakur@gmail.com) · [Repositories](https://github.com/sanskar-thakur?tab=repositories)
 
-🌱 I am looking to collaborate on:
-  - Cloud native techs for web infrastructure & deployment.
-  - Distributed design and architecture for scalability and performance.
+---
 
-🔭 I've worked with:
--  <table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Angular</span><br><br><br>
-        <a target="_blank" rel="noopener noreferrer" href="https://angular.io/"><img height="64px" width="64px"src="https://cdn.windowsreport.com/wp-content/uploads/2020/06/angular-logo-2.png"></a>
-      </td>
-      <td width="25%" align="center">
-        <span>Spring</span><br><br><br>
-        <a target="_blank" rel="noopener noreferrer" href="https://spring.io/"><img height="64px" width="64px" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" style="max-width: 100%;"></a>
-      </td>
-      <td width="25%" align="center">
-        <span>.NET</span><br><br><br>
-        <a target="_blank" href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet"><img height="64px" width="64px" src="https://dhalgara.com/content/images/2018/07/dotnet-logo.png" style="max-width: 100%;"></a>
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖++</span><br><br><br>
-        <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/99a16669d62a8eb5383003846946cce0b7bd335bd39cf7e45310aff1072df51d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31382f49534f5f432532422532425f4c6f676f2e7376672f38303070782d49534f5f432532422532425f4c6f676f2e7376672e706e67"><img height="64px" width="64px" src="https://camo.githubusercontent.com/99a16669d62a8eb5383003846946cce0b7bd335bd39cf7e45310aff1072df51d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31382f49534f5f432532422532425f4c6f676f2e7376672f38303070782d49534f5f432532422532425f4c6f676f2e7376672e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" style="max-width: 100%;"></a>
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Kafka</span><br><br><br>
-        <a target="_blank" rel="noopener noreferrer" href="https://kafka.apache.org/"><img height="64px" width="64px" src="https://toppng.com/uploads/preview/apache-kafka-logo-11563428199khgq3xvb4q.png" style="max-width: 100%;"></a>
-      </td>
-      <td width="25%" align="center">
-        <span>Docker</span><br><br><br>
-        <a target="_blank" rel="noopener noreferrer" href="https://www.docker.com/"><img height="64px" width="64px" src="https://marvel-b1-cdn.bc0a.com/f00000000152152/www.zend.com/sites/default/files/image/2019-09/logo-docker.jpg" style="max-width: 100%;"></a>
-      </td>
-      <td width="25%" align="center">
-        <span>BitBucket</span><br><br><br>
-        <a target="_blank" rel="noopener noreferrer" href="https://bitbucket.org/product"><img height="64px" width="64px" src="https://logowik.com/content/uploads/images/bitbucket9553.jpg" data-canonical-src="https://image.flaticon.com/icons/svg/25/25231.svg" style="max-width: 100%;"></a>
-      </td>      
-       <td width="25%" align="center">
-        <span>Jenkins</span><br><br><br>
-        <a target="_blank" rel="noopener noreferrer" href="https://www.jenkins.io/"><img height="64px" width="64px" src="https://www.jenkins.io/images/logo-title-opengraph.png" style="max-width: 100%;"></a>
-      </td>
-    </tr>
-  </tbhttps://www.jenkins.io/ody>
-</table>
+## What I work on
 
-<p dir="auto">
-  <h3>Github stats:</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskar-thakur&amp;show_icons=true&amp;hide_border=true" style="max-width: 100%;">
-</p>
+- **Production AI:** agentic assistants, RAG, hybrid retrieval, model routing, and inference cost optimization.
+- **Backend architecture:** Java/Spring services, asynchronous processing, and finance, payments, inventory, and fulfillment systems.
+- **Reliability and evaluation:** observability, AI guardrails, and LLM evaluation with human calibration.
+- **Engineering leadership:** technical direction, system design, code quality, and mentoring 12+ engineers.
 
-### 📫 How to reach me:
+## Selected work at OfBusiness
 
-<a href="https://www.linkedin.com/in/sanskaarthakur/"><img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG24.png" height="30px" width="30px"></img></a>
-<a href="https://www.youtube.com/user/sanskaarthakur"><img src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" height="30px" width="30px"><img></a>
+- **Customer support AI:** architected and shipped **Ved**, an assistant serving **30K monthly active users** and approximately **30K messages per day** across web and WhatsApp, deflecting **40% of support tickets**.
+- **Efficient inference:** reduced inference costs by **60%** through intent detection and tiered model routing across Groq, Gemini, and Ollama.
+- **Document automation:** built an OCR and Gemini pipeline for invoices and financial documents, reducing manual data entry effort by **50–60%** through structured outputs, validation, and retry/fallback handling.
+- **Platform performance:** cut API latency and processing time by **30%** through Hibernate optimization, Redis caching, asynchronous processing, and bulk operations.
 
-<!--
-**sanskaar-thakur/sanskaar-thakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technical toolkit
 
-Here are some ideas to get you started:
+| Area | Technologies |
+| --- | --- |
+| Backend | Java 21, Spring Boot, Hibernate, .NET, REST APIs |
+| AI & retrieval | Spring AI, Vertex AI, RAG, MCP, Redis Vector Store |
+| Data & messaging | PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Kafka, RabbitMQ |
+| Observability & evaluation | OpenTelemetry, Micrometer, OpenSearch, Langfuse, LLM-as-a-judge |
+| Cloud & delivery | AWS, Azure, Docker, Kubernetes, Jenkins, CI/CD |
+| UI & additional languages | Angular, TypeScript, C#, C++, SQL, WPF/XAML |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+
+- **OfBusiness · Senior Lead Software Engineer** · Nov 2022–Present.
+  Production AI, commerce platforms, and finance, invoicing, and payments architecture.
+- **Smiths Detection · Senior Software Engineer** · May 2020–Nov 2022.
+  Distributed vehicle inspection and X-ray analysis services, platform integration, and Kubernetes on Azure.
+- **Qualcomm · Senior Software Engineer** · Jun 2013–May 2020.
+  Extensible audio tuning and calibration frameworks, diagnostic tools, and hardware-software integration.
+
+**Education:** B.Tech in Computer Science and Engineering, NIT Tiruchirappalli, 2013.
+
+---
+
+Happy to connect with engineers working on distributed systems, production AI, and platform architecture. Find me on [LinkedIn](https://www.linkedin.com/in/sanskaarthakur/) or reach out by [email](mailto:mail.sanskarthakur@gmail.com).
