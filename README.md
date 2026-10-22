@@ -19,4 +19,4 @@ Before this, I worked at Smiths Detection and Qualcomm. Each gave me a different
 
 Always happy to swap notes on backend systems, AI, or something interesting you're building.
 
-[LinkedIn](https://www.linkedin.com/in/sanskar-thakur/) · [Email](mailto:sanskaar.thakur@gmail.com) · [Browse my repos](https://github.com/sanskar-thakur?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/sanskarthakur/) · [Email](mailto:sanskaar.thakur@gmail.com) · [Browse my repos](https://github.com/sanskar-thakur?tab=repositories)
