@@ -2,7 +2,7 @@
 
 **Senior Lead Software Engineer at OfBusiness · Distributed Systems · Applied AI**
 
-I build distributed systems and production AI applications, with 12+ years of experience spanning commerce, industrial inspection, and semiconductor tooling. My work combines hands-on architecture, technical direction, and mentoring engineering teams.
+I build distributed systems and production AI applications, with 12+ years of experience spanning e-commerce, industrial inspection, and android audio calibration. 
 
 [LinkedIn](https://www.linkedin.com/in/sanskaarthakur/) · [Email](mailto:mail.sanskarthakur@gmail.com) · [Repositories](https://github.com/sanskar-thakur?tab=repositories)
 
